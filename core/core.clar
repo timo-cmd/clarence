@@ -1,4 +1,4 @@
-(ns cljs.core)
+(ns clr.core)
 (def defmacro (fn [name & fdecl]      
 
 	`(do (def ~name (fn ~@fdecl))
