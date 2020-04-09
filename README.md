@@ -1,5 +1,8 @@
 <div align="center">
-    <img src=""></img>
+    <p><a href="http://clarence-lang.github.io"><img src="https://raw.githubusercontent.com/clarence-lang/assets/master/clary.jpg" height=" 230"></img>
+    <br>
+    </br>
+    C L A R E N C E - L A N G</p></a>
     <br>
 	<br>
 	<hr>
