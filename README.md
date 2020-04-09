@@ -20,6 +20,7 @@
 		<br>
 		<sub>They <a href="https://github.com/botpress/botpress/blob/master/.github/CONTRIBUTING.md">welcome contributions</a> from anyone, whether you're into machine learning,<br>want to get started in open-source, or just have an improvement idea.</sub>
 		<br>
+		<hr>
  </div>
 
 
