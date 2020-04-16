@@ -31,6 +31,20 @@ Clarence is a dynamic, embeddable scripting-language. It's syntax are highly ins
 
 Clarence features a fast dynamic bytecode compilation. Similar to Just in Time compilations. You can use it for scientific computations, embeds of large projects and much much more... It's vm is written in Clarence itselfes so it got self-hosted. That's quite nice, cause while compilation, you are allowed to get some parallel compilations using macros! 
 
+## Projects that use Clarence
+---
+
+<a href="https://github.com/clarence-lang/http-clar">clar-http       | A server sample for Clarence</a>
+
+<a href="https://github.com/clarence-lang/cclarence">cclarence       | A stable C to Clarence compiler WIP</a>
+
+<a href="https://github.com/clarence-lang/clar-mongoDB">clar-mongoDB | A mongoDB plugin for Clarence</a>
+
+<a href="https://github.com/clarence-lang/clr-stdlib">clar-stdlib    | The stdlib of Clarence WIP</a>
+
+Your's not there? File an Issue or a PR to add your project in clarence.
+
+
 Sounds great? So take a look in the <a href="https://github.com/clarence-lang/clarence/tree/master/samples/simple">samples</a> directory or get even an Installer for Clarence!
 
 ## Install
